@@ -1,0 +1,6 @@
+name: DragonEgg
+version: 1.0.0
+author: Fluffycop
+description: Adds the dragon egg drop for Ender Dragons that are respawned
+main: com.github.fluffycop.dragonegg.DragonEggPlugin
+api-version: 1.13

@@ -1,0 +1,4 @@
+enabled: true
+
+# Ranges from 0.0 to 1.0, percentages, you know
+drop-chance: 1.0
